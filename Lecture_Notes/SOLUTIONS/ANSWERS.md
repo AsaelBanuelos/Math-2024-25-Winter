@@ -68,14 +68,15 @@ $$
 -
 \begin{pmatrix}
 1 & 2 \\
-3 & 4 
+3 & 4
 \end{pmatrix}
-\mathbf{}=
+=
 \begin{pmatrix}
 5-1 & 6-2 \\
 7-3 & 8-4
 \end{pmatrix}
 $$
+
 
 <!-- number three -->
 ## 3:
