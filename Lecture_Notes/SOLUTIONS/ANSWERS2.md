@@ -262,7 +262,12 @@ $$
 
 <br>
 
-### **Determine the rank of the matrix:**
+# **Determine the rank of the matrix:**
+
+### What is the Rank of a Matrix?
+
+The rank of a matrix is the number of linearly independent rows or columns in the matrix.\
+It tells us the "amount of unique information" or "dimensionality" contained in the matrix.
 
 $$
 \mathbf{B} =
@@ -392,17 +397,21 @@ $$
 \text{rank}(B) = 3
 $$
 
-<br>
+### This matrix is already in row echelon form.
 
----
-
----
-
----
+### Since all rows are nonzero, they are linearly independent, which directly gives the rank.
 
 <br>
 
-### INVERSE OF A MATRIX USING THE GAUSS METHOD:
+---
+
+---
+
+---
+
+<br>
+
+### INVERSE OF A MATRIX USING THE GAUSS JORDAN METHOD:
 
 ![alt text](image-3.png)
 
@@ -2796,19 +2805,21 @@ $$
 Perform the matrix multiplication:
 
 1. First row:
-$$
-x = 1 \cdot 5 - \frac{1}{2} \cdot 4 + 0 \cdot 3 = 5 - 2 + 0 = 3
-$$
+
+    $$
+    x = 1 \cdot 5 - \frac{1}{2} \cdot 4 + 0 \cdot 3 = 5 - 2 + 0 = 3
+    $$
 
 2. Second row:
-$$
-y = 0 \cdot 5 + \frac{1}{2} \cdot 4 - \frac{1}{2} \cdot 3 = 2 - 1.5 = 0.5
-$$
+
+    $$
+    y = 0 \cdot 5 + \frac{1}{2} \cdot 4 - \frac{1}{2} \cdot 3 = 2 - 1.5 = 0.5
+    $$
 
 3. Third row:
-$$
-z = 0 \cdot 5 + 0 \cdot 4 + \frac{1}{3} \cdot 3 = 1
-$$
+    $$
+    z = 0 \cdot 5 + 0 \cdot 4 + \frac{1}{3} \cdot 3 = 1
+    $$
 
 ### Final Solution:
 
