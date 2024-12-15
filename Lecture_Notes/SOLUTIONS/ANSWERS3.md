@@ -2,7 +2,7 @@
 
 1. ### **By what number should vector $a = [3, 4]$ be multiplied so that its length is equal to $1$?**
 
-    - **Step 1:** Recall that the length (or magnitude) of a vector $a = [a_1, a_2]$ is calculated using the formula:
+    - **Step 1:** we should Recall that the length (or magnitude) of a vector $a = [a_1, a_2]$ is calculated using the formula:
       $$ |a| = \sqrt{a_1^2 + a_2^2} $$
     - **Step 2:** Substituting the components of vector $a = [3, 4]$, calculate its length:
       $$ |a| = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5 $$
@@ -1716,116 +1716,6 @@ Since the dot product is zero, \($[1, 1]$\) is indeed perpendicular to the line.
 ![alt text](image-55.png)
 
 ---
-
-<br>
-
----
-
----
-
----
-
-<br>
-
-## 15. Equations of second-order curves (conic sections)
-
--   **Find the equation of a circle with center at point $A(1, 2)$ and radius $r = 3$.**
-
-<br>
-
--   **Find the equation of a parabola intersecting the $O_x$ axis at points $x = 2$, $x = 4$, and passing through point $y(3) = 1$.**
-
-<br>
-
--   **Find the center of the ellipse with the equation $x^2 + 4y^2 - 4x - 16y + 16 = 0$.**
-
-<br>
-
--   **Find the slope $(m > 0)$ of the line $y = mx - 5$ that is tangent to the circle with the equation $x^2 + y^2 = 1$.**
-
-<br>
-
--   **Find the intersection points of the hyperbola $x^2 - y^2 = 1$ with the ellipse's line $x^2 + 4y^2 = 6$.**
-
-<br>
-
--   **For the given hyperbola $x^2 - y^2 = 1$, find the distance between its branches.**
-
-<br>
-
----
-
----
-
----
-
-<br>
-
-## 16. Equations of planes in space
-
--   **The plane passes through points $A(1, 2, 3)$, $B(3, 4, 5)$, and $C(2, 1, 4)$. Find the equation of the plane.**
-
-<br>
-
--   **The plane passes through point $A(1, 2, 3)$ and is parallel to the plane $2x + 3y + 4z = 5$. Find the equation of the plane.**
-
-<br>
-
--   **The plane passes through point $A(1, 2, 3)$ and is perpendicular to the normal vector $\mathbf{n} = [2, 3, 4]$. Find the equation of the plane.**
-
-<br>
-
--   **We have two planes $2x + 3y + 4z = 5$ and $3x + 4y + 2z = 6$. Find the line of intersection of these planes.**
-
-<br>
-
--   **Write the equation of the plane passing through point $A(1, 2, 3)$ and parallel to vectors $\mathbf{v}_1 = [1, 0, 1]$ and $\mathbf{v}_2 = [0, 1, -1]$.**
-
-<br>
-
--   **We have the plane $2x + 3y + 4z = 5$. Find an example of a plane parallel and perpendicular to it.**
-
-<br>
-
--   **We have the plane $2x + 3y + 4z = 5$ and point $A(1, 2, 3)$. Find the distance from point $A$ to this plane.**
-
-<br>
-
--   **The plane intersects the coordinate axes at points $A(2, 0, 0)$, $B(0, 3, 0)$, and $C(0, 0, 4)$. Find the equation of the plane.**
-
-<br>
-
--   **Calculate the angle between the plane $x + y + z = 1$ and the plane $x = 0$ (i.e., the $yz$ plane).**
-
-<br>
-
--   **Find the vector perpendicular to the plane $x + y + z = 1$.**
-
-<br>
-
----
-
----
-
----
-
-<br>
-
-## 17. Equations of second-order surfaces
-
--   **Write the equation of a sphere with center at point $P = (1, 2, 3)$ and radius $r = 3$.**
-
-<br>
-
--   **Do the spheres with equations $x^2 + y^2 + z^2 = 1$ and $x^2 + y^2 + z^2 = 2$ have any common points?**
-
-<br>
-
--   **What curve in space is formed by the intersection of the sphere $x^2 + y^2 + z^2 = 1$ with the sphere $(x - 1)^2 + y^2 + z^2 = 1$? Find the equation of this curve.**
-
-<br>
-
--   **Write the equation of the tangent plane to the paraboloid $z = (x - 1)^2 + y^2 + 1$ at point $P(1, 0, 1)$.**
 
 <br>
 
