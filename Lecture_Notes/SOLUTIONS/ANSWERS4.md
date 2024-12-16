@@ -202,7 +202,7 @@ From this equation:
 
 ## [GEOGEBRA LINK](https://www.geogebra.org/calculator/kqymtuwb)
 
-![alt text](image-61.png)
+![alt text](image-83.png)
 ![alt text](image-62.png)
 
 ---
