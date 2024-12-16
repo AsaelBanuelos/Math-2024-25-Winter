@@ -103,46 +103,16 @@ $$
 y = -(x^2 - 6x + 8).
 $$
 
-we Distribute the negative sign:
+## [GEOGEBRA LINK](https://www.geogebra.org/calculator/rg5yy9kq)
 
-$$
-y = -x^2 + 6x - 8.
-$$
+![alt text](image-59.png)
+![alt text](image-60.png)
 
-### **Step 5:** Verification.
+---
 
-1. **Check the roots \($x = 2$\) and \($x = 4$\):**
+---
 
-    - Substituting \($x = 2$\):
-        $$
-        y = -2^2 + 6(2) - 8 = -4 + 12 - 8 = 0.
-        $$
-    - Substituting \($x = 4$\):
-        $$
-        y = -4^2 + 6(4) - 8 = -16 + 24 - 8 = 0.
-        $$
-
-    Both roots satisfy the equation.
-
-2. **Check the point \($(3, 1)$\):**
-
-    - Substituting \($x = 3$\):
-        $$
-        y = -(3^2) + 6(3) - 8 = -9 + 18 - 8 = 1.
-        $$
-
-    Conclution: The point satisfies the equation.
-
-    ## [GEOGEBRA LINK](https://www.geogebra.org/calculator/rg5yy9kq)
-
-    ![alt text](image-59.png)
-    ![alt text](image-60.png)
-
-    ***
-
-    ***
-
-    <br>
+<br>
 
 ## **Find the center of the ellipse with the equation $x^2 + 4y^2 - 4x - 16y + 16 = 0$.**
 
@@ -1929,6 +1899,7 @@ z = 1.
 $$
 
 ## [GEOGEBRA LINK](https://www.geogebra.org/calculator/qrwmp4es)
+
 ![alt text](image-82.png)
 
 ---
